@@ -1,0 +1,19 @@
+Script started on 2021-11-12 16:26:17+00:00 [TERM="dumb" TTY="/dev/pts/0" COLUMNS="120" LINES="30"]
+jesvica@LAPTOP-8F8QJN3B:/mnt/c/Users/jvict$ mk di   dir folder1
+jesvica@LAPTOP-8F8QJN3B:/mnt/c/Users/jvict$ mkdir folder  2
+jesvica@LAPTOP-8F8QJN3B:/mnt/c/Users/jvict$ touch file1.txt
+jesvica@LAPTOP-8F8QJN3B:/mnt/c/Users/jvict$ touch file2.txt
+jesvica@LAPTOP-8F8QJN3B:/mnt/c/Users/jvict$ touch file3.txt
+jesvica@LAPTOP-8F8QJN3B:/mnt/c/Users/jvict$ mv file1.txt /mnt/c/Users/jvict/foler   lder1
+jesvica@LAPTOP-8F8QJN3B:/mnt/c/Users/jvict$ mv file2.txt /mnt/c/User/ s/jvis ct/folder2
+jesvica@LAPTOP-8F8QJN3B:/mnt/c/Users/jvict$ cd folder1
+jesvica@LAPTOP-8F8QJN3B:/mnt/c/Users/jvict/folder1$ ls
+file1.txt
+jesvica@LAPTOP-8F8QJN3B:/mnt/c/Users/jvict/folder1$ pwd
+/mnt/c/Users/jvict/folder1
+jesvica@LAPTOP-8F8QJN3B:/mnt/c/Users/jvict/folder1$ cd ..
+jesvica@LAPTOP-8F8QJN3B:/mnt/c/Users/jvict$ rm file3.txt
+jesvica@LAPTOP-8F8QJN3B:/mnt/c/Users/jvict$ exit
+exit
+
+Script done on 2021-11-12 16:35:47+00:00 [COMMAND_EXIT_CODE="0"]
